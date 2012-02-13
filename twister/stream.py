@@ -1,7 +1,6 @@
 #-*- coding:utf-8 -*-
 # Twister
 # Copyright 2011-2012 Jun Kimura
-# See LICENSE for details.
 
 from tweepy.streaming import StreamListener, Stream, timeout, httplib, sleep
 from tweepy.error import TweepError

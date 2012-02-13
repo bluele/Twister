@@ -1,7 +1,6 @@
 #-*- coding:utf-8 -*-
 # Twister
-# Copyright 20011-2012 Jun Kimura
-# See LICENSE for details.
+# Copyright 2011-2012 Jun Kimura
 
 '''
 @summary: Exception at no response.

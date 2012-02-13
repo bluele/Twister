@@ -1,7 +1,6 @@
 #-*- coding:utf-8 -*-
 # Twister
 # Copyright 2011-2012 Jun Kimura
-# See LICENSE for details.
 
 from tweepy.auth import OAuthHandler
 import os, sys, re, logging

@@ -1,7 +1,6 @@
 #-*- coding:utf-8 -*-
 # Twister
 # Copyright 2011-2012 Jun Kimura
-# See LICENSE for details.
 
 from twister.util import create_re_hashtag, guess_decode, to_utf8, logger
 from twister.error import NotFoundEvent, TwisterError
